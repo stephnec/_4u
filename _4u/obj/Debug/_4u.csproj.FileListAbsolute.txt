@@ -1,0 +1,184 @@
+C:\Users\Stephane\source\repos\_4u\_4u\bin\Debug\_4u.exe.config
+C:\Users\Stephane\source\repos\_4u\_4u\bin\Debug\_4u.exe
+C:\Users\Stephane\source\repos\_4u\_4u\bin\Debug\_4u.pdb
+C:\Users\Stephane\source\repos\_4u\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+C:\Users\Stephane\source\repos\_4u\_4u\obj\Debug\_4u.Form1.resources
+C:\Users\Stephane\source\repos\_4u\_4u\obj\Debug\_4u.Properties.Resources.resources
+C:\Users\Stephane\source\repos\_4u\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+C:\Users\Stephane\source\repos\_4u\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+C:\Users\Stephane\source\repos\_4u\_4u\obj\Debug\_4u.exe
+C:\Users\Stephane\source\repos\_4u\_4u\obj\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\_4u\_4u\bin\Debug\_4u.exe.config
+C:\Users\Stephane\Desktop\_4u\_4u\bin\Debug\_4u.exe
+C:\Users\Stephane\Desktop\_4u\_4u\bin\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.TelaInicial.resources
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.Properties.Resources.resources
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.exe
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.TelaLogin.resources
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.TelaCadastro.resources
+C:\Users\Stephane\Desktop\_4u\_4u\obj\Debug\_4u.TelaPrincipal.resources
+D:\_4u\_4u\bin\Debug\_4u.exe.config
+D:\_4u\_4u\bin\Debug\_4u.exe
+D:\_4u\_4u\bin\Debug\_4u.pdb
+D:\_4u\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+D:\_4u\_4u\obj\Debug\_4u.TelaInicial.resources
+D:\_4u\_4u\obj\Debug\_4u.Properties.Resources.resources
+D:\_4u\_4u\obj\Debug\_4u.TelaCadastro.resources
+D:\_4u\_4u\obj\Debug\_4u.TelaLogin.resources
+D:\_4u\_4u\obj\Debug\_4u.TelaPrincipal.resources
+D:\_4u\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+D:\_4u\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+D:\_4u\_4u\obj\Debug\_4u.exe
+D:\_4u\_4u\obj\Debug\_4u.pdb
+D:\_4u\_4u\obj\Debug\_4u.TelaCliente.resources
+D:\_4u\_4u\obj\Debug\_4u.TelaFuncionario.resources
+D:\_4u\_4u\obj\Debug\_4u.TelaEditarCliente.resources
+D:\_4u\_4u\obj\Debug\_4u.TelaEditarFuncionario.resources
+E:\_4u\_4u\bin\Debug\_4u.exe.config
+E:\_4u\_4u\bin\Debug\_4u.exe
+E:\_4u\_4u\bin\Debug\_4u.pdb
+E:\_4u\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+E:\_4u\_4u\obj\Debug\_4u.TelaInicial.resources
+E:\_4u\_4u\obj\Debug\_4u.Properties.Resources.resources
+E:\_4u\_4u\obj\Debug\_4u.TelaCadastro.resources
+E:\_4u\_4u\obj\Debug\_4u.TelaCliente.resources
+E:\_4u\_4u\obj\Debug\_4u.TelaEditarCliente.resources
+E:\_4u\_4u\obj\Debug\_4u.TelaEditarFuncionario.resources
+E:\_4u\_4u\obj\Debug\_4u.TelaFuncionario.resources
+E:\_4u\_4u\obj\Debug\_4u.TelaLogin.resources
+E:\_4u\_4u\obj\Debug\_4u.TelaPrincipal.resources
+E:\_4u\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+E:\_4u\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+E:\_4u\_4u\obj\Debug\_4u.exe
+E:\_4u\_4u\obj\Debug\_4u.pdb
+D:\_4u\_4u\bin\Debug\MySql.Data.dll
+D:\_4u\_4u\bin\Debug\MySql.Data.xml
+D:\_4u\_4u\obj\Debug\_4u.csproj.CopyComplete
+C:\Users\Stephane\Desktop\______4u\_4u\bin\Debug\_4u.exe.config
+C:\Users\Stephane\Desktop\______4u\_4u\bin\Debug\_4u.exe
+C:\Users\Stephane\Desktop\______4u\_4u\bin\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\______4u\_4u\bin\Debug\MySql.Data.dll
+C:\Users\Stephane\Desktop\______4u\_4u\bin\Debug\MySql.Data.xml
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.TelaInicial.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.Properties.Resources.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.TelaCadastro.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.TelaCliente.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.TelaEditarCliente.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.TelaEditarFuncionario.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.TelaFuncionario.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.TelaLogin.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.TelaPrincipal.resources
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.csproj.CopyComplete
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.exe
+C:\Users\Stephane\Desktop\______4u\_4u\obj\Debug\_4u.pdb
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\_4u.exe.config
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\_4u.exe
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\_4u.pdb
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\MySql.Data.dll
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\MySql.Data.xml
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.csprojResolveAssemblyReference.cache
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaInicial.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.Properties.Resources.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaCadastro.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaCliente.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaEditarCliente.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaEditarFuncionario.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaFuncionario.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaLogin.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaPrincipal.resources
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.csproj.GenerateResource.Cache
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.exe
+C:\Users\casas bahia\Downloads\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaInicial.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.Properties.Resources.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaCadastro.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaCliente.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaEditarCliente.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaEditarFuncionario.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaFuncionario.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaLogin.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.TelaPrincipal.resources
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.exe
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\_4u.exe.config
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\_4u.exe
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\MySql.Data.dll
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\bin\Debug\MySql.Data.xml
+C:\Users\Stephane\Desktop\4u_blublu\VERSAO_ATUAL_4u\______4u\_4u\obj\Debug\_4u.csproj.CopyComplete
+C:\Users\Stephane\Desktop\4u_\_4u\bin\Debug\_4u.exe.config
+C:\Users\Stephane\Desktop\4u_\_4u\bin\Debug\_4u.exe
+C:\Users\Stephane\Desktop\4u_\_4u\bin\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\4u_\_4u\bin\Debug\MySql.Data.dll
+C:\Users\Stephane\Desktop\4u_\_4u\bin\Debug\MySql.Data.xml
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.TelaInicial.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.Properties.Resources.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.TelaCadastro.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.TelaCliente.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.TelaEditarCliente.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.TelaEditarFuncionario.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.TelaFuncionario.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.TelaLogin.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.TelaPrincipal.resources
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.csproj.CopyComplete
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.exe
+C:\Users\Stephane\Desktop\4u_\_4u\obj\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\4u_\_4u\bin\Debug\Correios.dll
+C:\Users\Stephane\Desktop\4u_\_4u\bin\Debug\Correios.pdb
+D:\4u_\_4u\bin\Debug\_4u.exe.config
+D:\4u_\_4u\bin\Debug\_4u.exe
+D:\4u_\_4u\bin\Debug\_4u.pdb
+D:\4u_\_4u\bin\Debug\Correios.dll
+D:\4u_\_4u\bin\Debug\Correios.pdb
+D:\4u_\_4u\bin\Debug\MySql.Data.xml
+D:\4u_\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+D:\4u_\_4u\obj\Debug\_4u.TelaInicial.resources
+D:\4u_\_4u\obj\Debug\_4u.Properties.Resources.resources
+D:\4u_\_4u\obj\Debug\_4u.TelaCadastro.resources
+D:\4u_\_4u\obj\Debug\_4u.TelaCliente.resources
+D:\4u_\_4u\obj\Debug\_4u.TelaEditarCliente.resources
+D:\4u_\_4u\obj\Debug\_4u.TelaEditarFuncionario.resources
+D:\4u_\_4u\obj\Debug\_4u.TelaFuncionario.resources
+D:\4u_\_4u\obj\Debug\_4u.TelaLogin.resources
+D:\4u_\_4u\obj\Debug\_4u.TelaPrincipal.resources
+D:\4u_\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+D:\4u_\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+D:\4u_\_4u\obj\Debug\_4u.csproj.CopyComplete
+D:\4u_\_4u\obj\Debug\_4u.exe
+D:\4u_\_4u\obj\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\bin\Debug\_4u.exe.config
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\bin\Debug\_4u.exe
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\bin\Debug\_4u.pdb
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\bin\Debug\Correios.dll
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\bin\Debug\MySql.Data.dll
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\bin\Debug\Correios.pdb
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\bin\Debug\MySql.Data.xml
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.csprojAssemblyReference.cache
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.TelaInicial.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.Properties.Resources.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.TelaCadastro.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.TelaCliente.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.TelaEditarCliente.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.TelaEditarFuncionario.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.TelaFuncionario.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.TelaLogin.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.TelaPrincipal.resources
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.csproj.GenerateResource.cache
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.csproj.CoreCompileInputs.cache
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.csproj.CopyComplete
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.exe
+C:\Users\Stephane\Desktop\banco\nalita\4u_\_4u\obj\Debug\_4u.pdb
